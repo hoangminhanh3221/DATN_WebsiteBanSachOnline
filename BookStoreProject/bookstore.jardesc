@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Admin/OneDrive/Desktop/KSDN/factbooks/Bookstore.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/BookStoreProject/bookstore.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/BookStoreProject/HELP.md"/>
+        <file path="/BookStoreProject/mvnw"/>
+        <file path="/BookStoreProject/.gitignore"/>
+        <javaElement handleIdentifier="=BookStoreProject/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=BookStoreProject/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <folder path="/BookStoreProject/target"/>
+        <javaElement handleIdentifier="=BookStoreProject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/BookStoreProject/.project"/>
+        <file path="/BookStoreProject/pom.xml"/>
+        <folder path="/BookStoreProject/src"/>
+        <file path="/BookStoreProject/mvnw.cmd"/>
+        <file path="/BookStoreProject/.classpath"/>
+    </selectedElements>
+</jardesc>
